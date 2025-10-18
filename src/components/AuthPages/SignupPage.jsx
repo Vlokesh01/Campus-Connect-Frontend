@@ -129,7 +129,7 @@ export default function StudentSignUp() {
               <input
                 name="srn"
                 type="text"
-                placeholder="SRN"
+                placeholder="SRN : SRNXXX"
                 value={formData.srn}
                 onChange={handleChange}
                 required
